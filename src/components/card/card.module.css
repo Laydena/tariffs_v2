@@ -1,0 +1,8 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

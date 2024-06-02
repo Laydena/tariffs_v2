@@ -1,0 +1,7 @@
+.active {
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    color: black;
+    box-shadow: 0px -16px teal;
+}
