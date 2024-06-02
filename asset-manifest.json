@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tariffs_v2/static/css/main.ac6253ca.css",
+    "main.js": "/tariffs_v2/static/js/main.27e3cee7.js",
+    "index.html": "/tariffs_v2/index.html",
+    "main.ac6253ca.css.map": "/tariffs_v2/static/css/main.ac6253ca.css.map",
+    "main.27e3cee7.js.map": "/tariffs_v2/static/js/main.27e3cee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac6253ca.css",
+    "static/js/main.27e3cee7.js"
+  ]
+}
