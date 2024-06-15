@@ -42,27 +42,5 @@ export default function CardsContainer() {
 
         </div>
 
-
-        // <div className={style.wrapper}>
-        //     {data.map((item, index) => (
-        //         active
-        //             ?
-        //             <button className={style.btn} onclick={handleActive} >
-        //                 < CardActive
-        //                     key={index} {...item}
-        //                 />
-        //             </button>
-        //             :
-        //             <button className={style.btn} onclick={handleActive}>
-        //                 < Card
-        //                     key={index} {...item}
-        //                 />
-        //             </button>
-
-        //     ))
-
-        //     }
-
-        // </div>
     )
 }
